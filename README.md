@@ -1,17 +1,12 @@
-I'll translate the Modern CV README to Polish.
+# Modern CV
 
+Nowoczesne, responsywne curriculum vitae stworzone przy użyciu React i Tailwind CSS. Ten projekt prezentuje czysty, profesjonalny design z ciemnym paskiem bocznym i jasną główną przestrzenią treści, idealny do prezentacji doświadczenia zawodowego i umiejętności.
 
+[![Tech Stack](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Tech Stack](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Tech Stack](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vite.dev/)
 
-```md
-# Nowoczesne CV
-
-Nowoczesne, responsywne curriculum vitae zbudowane przy użyciu React i Tailwind CSS. Projekt prezentuje czysty, profesjonalny design z ciemnym paskiem bocznym i jasną główną przestrzenią treści, idealny do prezentacji doświadczenia zawodowego i umiejętności.
-
-[![Technologie](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Technologie](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Technologie](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vite.dev/)
-
-## Funkcje
+## Funkcjonalności
 
 - 🎨 Nowoczesny, responsywny design
 - 📱 Podejście mobile-first
@@ -45,7 +40,7 @@ modern-cv/
 - React 18
 - Tailwind CSS
 - Vite
-- Lucide React (do ikon)
+- Lucide React (dla ikon)
 - PostCSS
 - Autoprefixer
 
@@ -56,5 +51,4 @@ modern-cv/
 
 ## Licencja
 
-Ten projekt jest objęty licencją ISC.
-```
+Ten projekt jest licencjonowany na podstawie licencji ISC.
