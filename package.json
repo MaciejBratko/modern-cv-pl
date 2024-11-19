@@ -1,5 +1,5 @@
 {
-  "name": "modern-cv",
+  "name": "modern-cv-pl",
   "version": "1.4.0",
   "type": "module",
   "scripts": {
@@ -25,7 +25,7 @@
   "main": "vite.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MaciejBratko/modern-cv.git"
+    "url": "git+https://github.com/MaciejBratko/modern-cv-pl.git"
   },
   "keywords": [
     "react",
@@ -35,7 +35,7 @@
   "author": "Maciej Bratko",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MaciejBratko/modern-cv/issues"
+    "url": "https://github.com/MaciejBratko/modern-cv-pl/issues"
   },
-  "homepage": "https://github.com/MaciejBratko/modern-cv#readme"
+  "homepage": "https://github.com/MaciejBratko/modern-cv-pl#readme"
 }
